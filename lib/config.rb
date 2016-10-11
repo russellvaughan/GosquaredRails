@@ -1,4 +1,4 @@
-module Gosquared
+module GosquaredRails
 
   class << self
     attr_accessor :configuration
